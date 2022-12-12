@@ -1,0 +1,23 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Мой первый проект на Хекслете",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annkainova/hexlet-js.git"
+  },
+  "author": {
+  "name" : "Anna Kainova",
+  "email" : "cainowa@gmail.com"
+},
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annkainova/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/annkainova/hexlet-js#readme"
+}
